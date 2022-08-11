@@ -14,7 +14,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed", {
-        strings: ["FH Masters student..","Electrical Engineering..", "Electric drives..", "Power electronics..", "Industrial Automation..", "Robotics..", "IOT.."],
+        strings: ["FH Masters student..","Electrical Engineering..", "Electric drives..", "Power electronics..", "Industrial Automation..", "Measurement systems..", "Robotics..", "IOT.."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
